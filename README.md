@@ -1,2 +1,3 @@
+We provided python implementations for Pareto Automatic Multi-Task Graph Representation Learning.
 
-The code will be publicly released after the paper is accepted.
+Full documentation and experimental descriptions will be publicly released after the paper is accepted.
